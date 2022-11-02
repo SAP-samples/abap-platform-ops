@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: abap-platform-ops/blob
-Upstream-Contact: Ekin Tiras <ekin.tiras@sap.com>
+Upstream-Contact: Christian Cop <christian.cop@sap.com>
 Source: https://github.com/SAP-samples/abap-platform-ops
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  SAP or third-party products or services developed outside of this project
