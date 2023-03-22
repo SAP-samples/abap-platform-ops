@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DEVC>
+    <CTEXT>Operations Reference Scenario: Health monitoring</CTEXT>
+    <COMP_POSID>BC-OP-MON</COMP_POSID>
+    <COMPONENT>BYI3000536</COMPONENT>
+    <PACKKIND>5</PACKKIND>
+   </DEVC>
+  </asx:values>
+ </asx:abap>
+</abapGit>

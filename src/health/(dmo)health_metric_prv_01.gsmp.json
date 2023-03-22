@@ -1,0 +1,18 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Health Metric Provider: Metric Provider Definition",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "implementation": {
+    "type": "CLAS",
+    "name": "/DMO/CL_HEALTH_METRIC_PRV_01"
+  },
+  "execution": {
+    "mode": "job",
+    "priority": "normal",
+    "instantiation": "createNew",
+    "scopeDependent": false
+  }
+}
