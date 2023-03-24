@@ -5,7 +5,7 @@
 -->
 
 ## Description
-The ABAP Platform Operations Reference Scenario provides sample implementations of operations related development objects for various use cases such as collecting and monitoring custom health metrics using the <strong>Generic Simple Metric (GSM) framework</strong>. You can find out more on the topic of developing custom metric providers on the SAP Help Portal.
+The ABAP Platform Operations Reference Scenario provides sample implementations of operations related development objects for various use cases such as collecting and monitoring custom health metrics using the <strong>Generic Simple Metric (GSM) framework</strong>. You can find out more on the topic of developing custom metric providers on the [SAP Help Portal] (https://help.sap.com/docs/btp/sap-business-technology-platform/developing-metrics-for-health-monitoring)
 
 ## Requirements
 Make sure to fulfill the following requirements:
@@ -32,7 +32,6 @@ No known issues
 [Create an issue](https://github.com/SAP-samples/abap-platform-ops/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
-
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
