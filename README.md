@@ -5,10 +5,10 @@
 -->
 
 ## Description
-The ABAP Platform Operations Reference Scenario provides sample implementations of operations related development objects for various use cases such as collecting and monitoring custom health metrics using the Generic Simple Metric (GSM) framework.
-You can find out more on the topic of developing custom metric providers on the [SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-metrics-for-health-monitoring).
+The reference scenarios for ABAP Platform operations provide sample implementations of operations-related development objects. Use cases of these development objects include creating and collecting custom health metrics for monitoring using the generic simple metric framework. For more information about developing custom health metrics, see [SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/developing-metrics-for-health-monitoring).
+
 ## ABAP Platform Cloud
-The provided code can be found in the  [ABAP-platform-cloud branch](https://github.com/SAP-samples/abap-platform-ops/tree/ABAP-platform-cloud) and is intended for use in SAP BTP or SAP S/4HANA Cloud public edition ABAP environments.
+The sample code can be found in the [ABAP-platform-cloud branch](https://github.com/SAP-samples/abap-platform-ops/tree/ABAP-platform-cloud) and is intended for use in the ABAP environment in SAP BTP or SAP S/4HANA Cloud, public edition.
 To import the reference scenario into your ABAP environment, follow the steps in the [READ-ME](../ABAP-platform-cloud/README.md) file of the branch <em>ABAP-platform-cloud</em> and download the sources from this branch. 
 
 ## Known Issues
@@ -20,4 +20,4 @@ No known issues
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
